@@ -1,4 +1,4 @@
-# Smartthings
+# Smartthings Dimmer control from Remote (Minimote) 
 Small Smartthings project to manage dimmers with a minimote 
 
 
